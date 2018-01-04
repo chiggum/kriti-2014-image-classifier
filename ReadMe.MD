@@ -1,13 +1,10 @@
 # kriti-2014-image-classifier
----
 - Manas Hostel
 
 ### Task
----
 Build a model to classify images into - photographic (taken by a camera) and artistic (hand-painted).
 
 ### Approach
----
 - K-Nearest Neighbour with `K=17` trained separately over sobel and laplacian features extracted from train data.
 - For a test case,
     - sobel and laplacian features extracted.
@@ -18,7 +15,6 @@ Build a model to classify images into - photographic (taken by a camera) and art
         - else predict photograph
 
 ### Requirements
----
 - Linux (preferrably Ubuntu 12.10)
 - openCV python module (sudo apt-get install python-opencv)
 - python 2.7
@@ -29,7 +25,6 @@ Build a model to classify images into - photographic (taken by a camera) and art
 NOTE: We **ASSUME** that the test images are in JPG format.
 
 ### Steps to predict
----
 Steps to predict the category of test images:
 1. Put all test images in `test` directory
 2. `cd "to/the/dir/which/contains/this/Readme"`
@@ -41,5 +36,4 @@ The final predictions will be in "predictedout" file with one line for each test
 NOTE: The whole process will take 15-20 minutes, so please be patient and don't interrupt the running processes. Also, it is recommended to turn off other processes.
 
 ### Update
----
-- Obtained second prize with 91% accuracy on test set.
+- Obtained second prize with 91% accuracy on test set. [\href{https://1drv.ms/i/s!AsWdE6fYJr8igqpDcrLW9QLo9BRreA}{Certificate Link}]
