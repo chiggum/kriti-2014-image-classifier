@@ -36,4 +36,4 @@ The final predictions will be in "predictedout" file with one line for each test
 NOTE: The whole process will take 15-20 minutes, so please be patient and don't interrupt the running processes. Also, it is recommended to turn off other processes.
 
 ### Update
-- Obtained second prize with 91% accuracy on test set. [\href{https://1drv.ms/i/s!AsWdE6fYJr8igqpDcrLW9QLo9BRreA}{Certificate Link}]
+- Obtained second prize with 91% accuracy on test set. [Certificate Link](https://1drv.ms/i/s!AsWdE6fYJr8igqpDcrLW9QLo9BRreA)
